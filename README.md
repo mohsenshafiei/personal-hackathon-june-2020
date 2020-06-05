@@ -6,7 +6,7 @@ Create a chat app using below technology stack:
 * Sapper
 * Rollup
 * Socket.io
-* NodeJS
+* Deno
 * MongoDB
 * Docker
 * Docker-Compose
